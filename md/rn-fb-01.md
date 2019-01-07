@@ -10,34 +10,6 @@
 # 리액트 네이티브 앱 개발 강의 
 part. 1
 
-![bg](https://class.codejong.kr/uploads/default/original/1X/25a598dfcc7780aa9e146df7c3b885cf132d36e1.png)
-
----
-
-![](./images/jong.jpeg)
-
----
-
-<!-- page_number: true -->
-
-
-  - JavaScript Fullstack 개발자
-- Yo Studio 운영
-  - 컨설팅 / 교육 / 앱 제작
-- ![25%](https://class.codejong.kr/uploads/default/original/1X/f77638e4bc5e90f41b23b1e7c2b922079a1d96aa.png) [코드종 YouTube](https://www.youtube.com/channel/UC9hWQRe4QrUivXN3VO2iuMA)
-- 커뮤니티 운영자
-  - 자바스크립트 개발자 포럼
-  - 리액트 코리아
-
----
-
-# 자기 소개 시간
-
----
-
-![](https://camo.githubusercontent.com/f47c20465d56eee30a80cfd588afa68000d74640/68747470733a2f2f73636f6e74656e742e6663676b362d312e666e612e666263646e2e6e65742f762f74312e302d392f33383230383434325f313430303234303930303133333636315f323932303530303634303834373233333032345f6e2e6a70673f5f6e635f6361743d313036265f6e635f68743d73636f6e74656e742e6663676b362d312e666e61266f683d3664613664343035663530323263643937393561343639303034316163343235266f653d3543373830463130)
-
----
 
 # Web이나 App 개발 경험이 있나요?
 
